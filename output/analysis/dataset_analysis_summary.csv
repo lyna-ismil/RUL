@@ -1,0 +1,18 @@
+Metric,Value
+Total Rows,92249.0
+Total Units,100.0
+Mean Lifetime (km),9214.9
+Min Lifetime (km),6060.0
+Max Lifetime (km),11950.0
+Mean Samples/Unit,922.49
+RUL Cap (km),5000.0
+RUL Min (km),0.0
+RUL Max (km),3000.0
+Mean RUL (km),2510.563800149595
+Healthy Phase %,15.800713286864898
+Wear Onset %,44.82108207135037
+Accelerated %,39.378204641784734
+City Mode %,39.20692907240187
+Highway Mode %,34.91745167969301
+Idle Mode %,17.14923739010721
+Aggressive Mode %,8.726381857797918
